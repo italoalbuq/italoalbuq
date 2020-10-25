@@ -9,4 +9,3 @@ Using Data Science is urgent, as it is a very comprehensive area.
 You can normally find me on the following locations:
 
 - [LinkedIn](https://www.linkedin.com/in/italogiullian)
-- [Instagram](https://www.instagram.com/italogiullian)
