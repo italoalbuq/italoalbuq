@@ -1,11 +1,10 @@
 # Italo Giullian
 
-Hello there! I'm Italo, a Data Science student, fascinated by the potential of this science and the power of it to change the way we see and deal with reality.
-Using Data Science is urgent, as it is a very comprehensive area.
-
+Hi! I'm Italo, graduated in Computer Science and currently taking a Master's degree in Computer Science with a focus on Data Science and Artificial Intelligence.
 
 ## Web Presence
 
-You can normally find me on the following locations:
+You can usually find me in the following places:
 
 - [LinkedIn](https://www.linkedin.com/in/italogiullian)
+- [Medium](https://italoalbuq.medium.com/)
