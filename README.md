@@ -1,6 +1,8 @@
 # Italo Giullian
 
-Hi! I'm Italo, graduated in Computer Science and currently taking a Master's degree in Computer Science with a focus on Data Science and Artificial Intelligence.
+Hey!
+
+I'm Italo, I graduated with a degree in Computer Science, I have a specialization in Data Science, an MBA in Project Management and I'm currently studying a Master's in Computer Science with a focus on Artificial Intelligence.
 
 ## Web Presence
 
